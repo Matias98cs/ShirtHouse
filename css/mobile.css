@@ -1,0 +1,92 @@
+@media (max-width: 600px) {
+  .products {
+    display: inherit;
+    height: auto;
+  }
+
+  .product {
+    margin-top: auto;
+  }
+
+  .main_section {
+    padding: 4%;
+  }
+
+  .beneficios, .mentions {
+    display: inherit;
+  }
+
+  .image-product {
+
+    display: inherit;
+  }
+
+  .conteiner{
+    padding: 30px;
+    display: inherit;
+    height: auto;
+    width: auto;
+  }
+
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .col-4 {
+    display: inherit;
+  }
+
+  .col-8 {
+    display: inherit;
+  }
+}
+
+@media (max-width: 1024px) {
+  .products {
+    display: inherit;
+    height: auto;
+  }
+
+  .product {
+    margin-top: auto;
+  }
+
+  .main_section {
+    padding: 4%;
+  }
+
+  .beneficios, .mentions {
+    display: inherit;
+  }
+
+  .image-product {
+    display: inherit;
+  }
+
+  .conteiner{
+    padding: 30px;
+    display: inherit;
+    height: auto;
+    width: auto;
+  }
+
+  .row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+  .col-4 {
+    display: inherit;
+  }
+
+  .col-8 {
+    display: inherit;
+  }
+}
+
+}
